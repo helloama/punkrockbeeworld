@@ -46,6 +46,21 @@
     },
     {
       "position": [
+        -1,
+        0.8,
+        -11
+      ],
+      "quaternion": [
+        0,
+        0.7071067811865475,
+        0,
+        0.7071067811865475
+      ],
+      "start_url": "https://webaverse.github.io/piano/",
+      "dynamic": true
+    },
+    {
+      "position": [
         0,
         0,
         0
