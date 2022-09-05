@@ -50,6 +50,20 @@
       "start_url": "https://helloama.github.io/punkrockbeeworld/punkrockbee.vrm"
     },
     {
+"position": [
+-25.12,
+1.24,
+-19.18
+],
+"quaternion": [
+0,
+0,
+0,
+1
+],
+"start_url": "https://webaverse.github.io/eth-coin/"
+    },
+    {
       "position": [
         33.12,
         4.43,
