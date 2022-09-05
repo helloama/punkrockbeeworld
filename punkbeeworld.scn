@@ -28,7 +28,7 @@
         0,
         0
       ],
-      "start_url": "https://webaverse.github.io/atmospheric-sky/"
+      "start_url": "https://webaverse.github.io/sky-milkyway/"
     },
     {
       "position": [
@@ -42,7 +42,7 @@
         0,
         0.7071067811865475
       ],
-      "start_url": "https://webaverse.github.io/app/public/avatars/scillia.vrm"
+      "start_url": "https://helloama.github.io/punkrockbeeworld/punkrockbee.vrm"
     },
     {
       "position": [
@@ -51,7 +51,7 @@
         0
       ],
       "physics": true,
-      "start_url": "https://webaverse.github.io/grid/grid.glb"
+      "start_url": "https://helloama.github.io/punkrockbeeworld/punkrockbeeworld.glb"
     }
   ]
 }
